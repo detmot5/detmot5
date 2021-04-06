@@ -7,7 +7,7 @@ My name is Norbert Bielak and I'm a Computer Science student from Poland with pa
 * ⚡ Fun fact: I was trying to learn a lot of technologies (WebDev, GameDev, Mobile) but still embedded is my favourite. Frontend is propably in second place.
 
 ## 🏍️ Hobbies
-Apart of coding I enjoy riding enduro motorcycles, car & motorcycle mechanics, electronics and everything about rockets and space flights 🚀
+Apart from coding I enjoy riding enduro motorcycles, car & motorcycle mechanics, electronics and everything about rockets and space flights 🚀
 
 ## 🔧 Technologies and Tools
 

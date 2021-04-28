@@ -20,8 +20,4 @@ Apart from coding I enjoy riding enduro motorcycles, car & motorcycle mechanics,
 ![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=C&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=Python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-CMake-informational?style=flat&logo=CMake&logoColor=white&color=blue)
-![](https://img.shields.io/badge/uC-STM32-informational?style=flat&logo=STMicroelectronics&logoColor=white&color=blue)
-![](https://img.shields.io/badge/uC-ESP32/8266-informational?style=flat&logo=Espressif&logoColor=white&color=blue)
-
-
 

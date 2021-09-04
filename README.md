@@ -1,7 +1,7 @@
 ## Hello everyone 👋
 My name is Norbert Bielak and I'm a Computer Science student from Poland with passion to embedded programming.
 
-* 🔭 I’m currently working as a freelancer with Arduino using Espressif32 systems and HTML/CSS/JS. 
+* 🔭 I’m currently working full at Layersshow with Arduino using Espressif32 systems and Angular & Svelte creating web applications. 
 * 🚧 My main side project is YPVS driver.
 * 🌱 I’m currently learning Angular, TypeScript, Continous Integration and STM32, CMake
 * ⚡ Fun fact: I was trying to learn a lot of technologies (WebDev, GameDev, Mobile) and I chose frontend and embedded.
